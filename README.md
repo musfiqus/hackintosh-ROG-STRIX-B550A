@@ -1,9 +1,6 @@
 # OpenCore EFI for ROG STRIX B550-A GAMING
 
-![photo](https://github.com/musfiqus/hackintosh-ROG-STRIX-B550A/raw/master/Pictures/b550a.png)
-<img src="https://github.com/musfiqus/hackintosh-ROG-STRIX-B550A/raw/master/Pictures/about.png" alt="about" width="200"/>
-
-<img src="https://github.com/musfiqus/hackintosh-ROG-STRIX-B550A/raw/master/Pictures/b550a.png" alt="b550a" width="200"/>
+<img src="https://github.com/musfiqus/hackintosh-ROG-STRIX-B550A/raw/master/Pictures/about.png" alt="about" width="400"/> | <img src="https://github.com/musfiqus/hackintosh-ROG-STRIX-B550A/raw/master/Pictures/b550a.png" alt="b550a" width="400"/>
 
 ## Specification
 
